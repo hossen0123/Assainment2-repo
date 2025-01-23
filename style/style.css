@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.nav-area{
+
+}
+.nav-title{
+    font-size: 32px;
+    width: 129px;
+    height: 30px;
+    font-size: bold;
+    color: black;
+    margin-left: 20px;
+}
+.nav-section{
+    font-size: 20px;
+    width: 58px;
+    height: 30px;
+    font-size: bold;
+    color: orange;
+    margin: 5px;
+}
+.nav-description{
+   font-size: 20px;
+   width: 57px;
+   height: 30px;
+   font-size: medium; 
+   color: skyblue;
+   margin: 5px;
+}
+.nav-direction{
+    font-size: 20px;
+    font-size: medium;
+    width: 80px;
+    height: 30px;
+    color: #05D4DF;
+    margin: 5px;
+}
+.nav-position{
+   font-size: 20px;
+   width: 96px;
+   height: 30px;
+   font-size: medium; 
+   color: #5D58EF;
+   margin: 5px;
+}
+.btn{
+    font-size: 20px;
+    font-size: 600;
+    width: 197px;
+    height: 52px;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    background-color: orange;
+}
+.nav{
+    width: 1160px;
+    height: 62px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.banner{
+    font-size: 40px;
+    font-size: 800;
+    margin: 0px;
+}
+.banner-title{
+    color: orange;
+}
+.banner span{
+    color: skyblue;
+}
+.banner-position{
+    font-size: 20px;
+    color: black;
+    font-size: Regular;
+    width: 640px;
+    height: 50px;
+}
+.banner-btn{
+    font-size: 20px;
+    color: white;
+    width: 197px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: black;
+}
+.banner-img{
+   width: 468px;
+   height: 575px; 
+}
+.banner-dising{
+    display: flex;
+    width: 1158px;
+    height: 575px;
+    margin: 0 auto;
+}
+.div{
+    font-size: 46px;
+    font-size: bold;
+    width: 460px;
+    height: 57px;
+    margin: 0 auto;
+}
+.nav{
+    margin: 0 auto;
+}
